@@ -105,6 +105,13 @@ const tools = [
     icon: Globe,
     href: "/tools/ip-hosting-checker",
     color: "from-sky-500 to-blue-500"
+  },
+  {
+    title: "Images to PDF",
+    description: "Convert multiple images to a single PDF document",
+    icon: FileImage,
+    href: "/tools/images-to-pdf",
+    color: "from-blue-500 to-cyan-500"
   }
 ]
 
