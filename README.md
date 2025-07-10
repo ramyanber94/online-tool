@@ -1,4 +1,4 @@
-# DevToolbox - Essential Tools for Developers
+# StackToolkit - Essential Tools for Developers
 
 A comprehensive collection of developer tools built with modern web technologies. Format JSON, generate UUIDs, create hashes, and much more - all in one place.
 

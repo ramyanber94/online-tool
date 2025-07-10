@@ -17,8 +17,8 @@ export function StructuredData({ data }: StructuredDataProps) {
 export const organizationSchema = {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "DevToolbox",
-  "url": "https://devtoolbox.dev",
+  "name": "StackToolkit",
+  "url": "https://stacktoolkit.dev",
   "description": "Essential tools for developers. All tools work offline and respect your privacy.",
   "foundingDate": "2024",
   "applicationCategory": "DeveloperApplication",
@@ -33,20 +33,20 @@ export const organizationSchema = {
 export const websiteSchema = {
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "name": "DevToolbox",
-  "url": "https://devtoolbox.dev",
+  "name": "StackToolkit",
+  "url": "https://stacktoolkit.dev",
   "description": "Essential tools for developers. Format JSON, generate UUIDs, create hashes, and much more. All tools work offline and respect your privacy.",
   "inLanguage": "en-US",
   "isAccessibleForFree": true,
   "publisher": {
     "@type": "Organization",
-    "name": "DevToolbox"
+    "name": "StackToolkit"
   },
   "potentialAction": {
     "@type": "SearchAction",
     "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://devtoolbox.dev/?q={search_term_string}"
+      "urlTemplate": "https://stacktoolkit.dev/?q={search_term_string}"
     },
     "query-input": "required name=search_term_string"
   }

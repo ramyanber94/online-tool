@@ -2,7 +2,7 @@ import { ImageResponse } from 'next/og'
 
 export const runtime = 'edge'
 
-export const alt = 'DevToolbox - Essential Tools for Developers'
+export const alt = 'StackToolkit - Essential Tools for Developers'
 export const size = {
   width: 1200,
   height: 630,
@@ -43,7 +43,7 @@ export default async function Image() {
               textShadow: '0 4px 8px rgba(0, 0, 0, 0.3)',
             }}
           >
-            DevToolbox
+            StackToolkit
           </h1>
           <p
             style={{

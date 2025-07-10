@@ -6,7 +6,7 @@ import { Cookie, X, Check, Settings } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 
-const COOKIE_CONSENT_KEY = "devtoolbox-cookie-consent"
+const COOKIE_CONSENT_KEY = "stacktoolkit-cookie-consent"
 
 interface CookieConsentProps {
   onAccept?: () => void

@@ -1,6 +1,6 @@
 {
-    "name": "DevToolbox - Essential Tools for Developers",
-    "short_name": "DevToolbox",
+    "name": "StackToolkit - Essential Tools for Developers",
+    "short_name": "StackToolkit",
     "description": "A comprehensive collection of developer tools for JSON formatting, URL encoding, UUID generation, color palettes, hash generation, password creation, barcode generation, image conversion, regex testing, and more. All tools work offline and respect your privacy.",
     "start_url": "/",
     "scope": "/",

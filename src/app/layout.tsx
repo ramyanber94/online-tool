@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "DevToolbox - Essential Tools for Developers",
-    template: "%s | DevToolbox"
+    default: "StackToolkit - Essential Tools for Developers",
+    template: "%s | StackToolkit"
   },
   description: "A comprehensive collection of developer tools for JSON formatting, URL encoding, UUID generation, color palettes, hash generation, password creation, barcode generation, image conversion, regex testing, and more. Built with Next.js and TypeScript. All tools work offline and respect your privacy.",
   keywords: [
@@ -27,39 +27,39 @@ export const metadata: Metadata = {
     "regex tester", "regular expression", "IP checker", "hosting checker",
     "web development tools", "programming tools", "frontend tools", "backend tools"
   ],
-  authors: [{ name: "DevToolbox", url: "https://devtoolbox.dev" }],
-  creator: "DevToolbox",
-  publisher: "DevToolbox",
+  authors: [{ name: "StackToolkit", url: "https://stacktoolkit.dev" }],
+  creator: "StackToolkit",
+  publisher: "StackToolkit",
   formatDetection: {
     email: false,
     address: false,
     telephone: false,
   },
-  metadataBase: new URL("https://devtoolbox.dev"),
+  metadataBase: new URL("https://stacktoolkit.dev"),
   alternates: {
     canonical: "/",
   },
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://devtoolbox.dev",
-    title: "DevToolbox - Essential Tools for Developers",
+    url: "https://stacktoolkit.dev",
+    title: "StackToolkit - Essential Tools for Developers",
     description: "A comprehensive collection of developer tools for JSON formatting, URL encoding, UUID generation, color palettes, hash generation, and more. All tools work offline and respect your privacy.",
-    siteName: "DevToolbox",
+    siteName: "StackToolkit",
     images: [
       {
         url: "/og-image.png",
         width: 1200,
         height: 630,
-        alt: "DevToolbox - Essential Tools for Developers",
+        alt: "StackToolkit - Essential Tools for Developers",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "DevToolbox - Essential Tools for Developers",
+    title: "StackToolkit - Essential Tools for Developers",
     description: "A comprehensive collection of developer tools for JSON formatting, URL encoding, UUID generation, color palettes, hash generation, and more. All tools work offline and respect your privacy.",
-    creator: "@devtoolbox",
+    creator: "@stacktoolkit",
     images: ["/og-image.png"],
   },
   robots: {

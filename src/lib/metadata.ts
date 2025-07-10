@@ -1,9 +1,9 @@
 import type { Metadata } from 'next'
 
 export const siteConfig = {
-    name: 'DevToolbox',
-    url: 'https://devtoolbox.dev',
-    ogImage: 'https://devtoolbox.dev/og.jpg',
+    name: 'StackToolkit',
+    url: 'https://stacktoolkit.dev',
+    ogImage: 'https://stacktoolkit.dev/og.jpg',
     description: 'Free, privacy-first developer tools. Format JSON, generate UUIDs, create hashes, encode URLs, and more. All tools run in your browser - no data leaves your device.',
     keywords: [
         'developer tools',
@@ -107,7 +107,7 @@ export function createMetadata({
             title: fullTitle,
             description,
             images: [siteConfig.ogImage],
-            creator: '@devtoolbox',
+            creator: '@stacktoolkit',
         },
         alternates: {
             canonical: url,

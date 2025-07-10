@@ -134,7 +134,7 @@ export function HomePage() {
         <div className="container flex h-16 items-center justify-between">
           <Link href="/" className="flex items-center space-x-2">
             <Code2 className="h-6 w-6" />
-            <span className="font-bold text-xl">DevToolbox</span>
+            <span className="font-bold text-xl">StackToolkit</span>
           </Link>
           <ThemeToggle />
         </div>
@@ -529,7 +529,7 @@ export function HomePage() {
             viewport={{ once: true }}
             className="text-center mb-12"
           >
-            <h2 className="text-3xl font-bold mb-4">Why Developers Choose DevToolbox</h2>
+            <h2 className="text-3xl font-bold mb-4">Why Developers Choose StackToolkit</h2>
             <p className="text-muted-foreground max-w-2xl mx-auto">
               Built with modern web standards and best practices in mind
             </p>
@@ -613,7 +613,7 @@ export function HomePage() {
             viewport={{ once: true }}
             className="text-center mb-12"
           >
-            <h2 className="text-3xl font-bold mb-4">Why Choose DevToolbox?</h2>
+            <h2 className="text-3xl font-bold mb-4">Why Choose StackToolkit?</h2>
             <p className="text-muted-foreground max-w-2xl mx-auto">
               Built with privacy and performance in mind. All our tools run entirely in your browser.
             </p>
@@ -665,7 +665,7 @@ export function HomePage() {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center space-x-2 mb-4 md:mb-0">
               <Code2 className="h-5 w-5" />
-              <span className="font-semibold">DevToolbox</span>
+              <span className="font-semibold">StackToolkit</span>
               <span className="text-sm text-muted-foreground">© 2024</span>
             </div>
             <div className="text-sm text-muted-foreground">
