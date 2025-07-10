@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     "regex tester", "regular expression", "IP checker", "hosting checker",
     "web development tools", "programming tools", "frontend tools", "backend tools"
   ],
-  authors: [{ name: "StackToolkit", url: "https://stacktoolkit.dev" }],
+  authors: [{ name: "StackToolkit", url: "https://stacktoolkit.pro" }],
   creator: "StackToolkit",
   publisher: "StackToolkit",
   formatDetection: {
@@ -35,14 +35,14 @@ export const metadata: Metadata = {
     address: false,
     telephone: false,
   },
-  metadataBase: new URL("https://stacktoolkit.dev"),
+  metadataBase: new URL("https://stacktoolkit.pro"),
   alternates: {
     canonical: "/",
   },
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://stacktoolkit.dev",
+    url: "https://stacktoolkit.pro",
     title: "StackToolkit - Essential Tools for Developers",
     description: "A comprehensive collection of developer tools for JSON formatting, URL encoding, UUID generation, color palettes, hash generation, and more. All tools work offline and respect your privacy.",
     siteName: "StackToolkit",

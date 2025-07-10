@@ -18,7 +18,7 @@ export const organizationSchema = {
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "StackToolkit",
-  "url": "https://stacktoolkit.dev",
+  "url": "https://stacktoolkit.pro",
   "description": "Essential tools for developers. All tools work offline and respect your privacy.",
   "foundingDate": "2024",
   "applicationCategory": "DeveloperApplication",
@@ -34,7 +34,7 @@ export const websiteSchema = {
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "StackToolkit",
-  "url": "https://stacktoolkit.dev",
+  "url": "https://stacktoolkit.pro",
   "description": "Essential tools for developers. Format JSON, generate UUIDs, create hashes, and much more. All tools work offline and respect your privacy.",
   "inLanguage": "en-US",
   "isAccessibleForFree": true,
@@ -46,7 +46,7 @@ export const websiteSchema = {
     "@type": "SearchAction",
     "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://stacktoolkit.dev/?q={search_term_string}"
+      "urlTemplate": "https://stacktoolkit.pro/?q={search_term_string}"
     },
     "query-input": "required name=search_term_string"
   }

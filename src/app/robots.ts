@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
             allow: '/',
             disallow: '/private/',
         },
-        sitemap: 'https://stacktoolkit.dev/sitemap.xml',
+        sitemap: 'https://stacktoolkit.pro/sitemap.xml',
     }
 }
