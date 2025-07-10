@@ -181,7 +181,7 @@ export default function JsonFormatterClient() {
                   readOnly
                   value={output}
                   placeholder="Formatted JSON will appear here..."
-                  className="min-h-[400px] font-mono text-sm bg-slate-50 dark:bg-slate-900"
+                  className="min-h-[400px] font-mono text-sm"
                 />
               </CardContent>
             </Card>
